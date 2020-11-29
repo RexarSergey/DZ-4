@@ -1,0 +1,2 @@
+C:\Users\DW995\Desktop\Потоки с OMP\Parallel_OMP\Debug\Parallel_OMP.exe
+C:\Users\DW995\Desktop\Потоки с OMP\Parallel_OMP\Debug\Parallel_OMP.pdb

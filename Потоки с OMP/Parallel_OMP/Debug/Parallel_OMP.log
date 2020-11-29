@@ -1,0 +1,6 @@
+﻿  Parallel_OMP.cpp
+C:\Users\DW995\Desktop\Потоки с OMP\Parallel_OMP\Parallel_OMP.cpp(119,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DW995\Desktop\Потоки с OMP\Parallel_OMP\Parallel_OMP.cpp(121,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DW995\Desktop\Потоки с OMP\Parallel_OMP\Parallel_OMP.cpp(162,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DW995\Desktop\Потоки с OMP\Parallel_OMP\Parallel_OMP.cpp(176,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Parallel_OMP.vcxproj -> C:\Users\DW995\Desktop\Потоки с OMP\Parallel_OMP\Debug\Parallel_OMP.exe
